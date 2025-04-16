@@ -41,10 +41,3 @@ contentBackgroundColor: Colors.white, //Content widget background color
 contentPadding: EdgeInsets.all(20), // Padding inside the content area
 ),
 ```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
-# gradient-border-widget
