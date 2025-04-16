@@ -1,6 +1,6 @@
 name: gradient_border_container
 description: "A package which will help to create Gradient border of a container"
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/prabhunath111/gradient-border-widget
 
 environment:

@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-## Gradient Border Container, or you could say Gradient Border Widget, takes any widget as its content (or child), and displays a container with a gradient border around it.
+## Gradient Border Container, or you could say Gradient Border Widget.
 A customizable Flutter widget that wraps any child widget with a smooth gradient border. It allows you to define the border radius, border width, gradient style, padding, and background color of the content area. Perfect for adding a stylish and modern touch to your UI elements.
 
 ## Features
