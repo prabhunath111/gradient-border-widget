@@ -41,3 +41,6 @@ contentBackgroundColor: Colors.white, //Content widget background color
 contentPadding: EdgeInsets.all(20), // Padding inside the content area
 ),
 ```
+##Some UI Example
+![1_X8ox5L37yf0IQjzRZMisXA](https://github.com/user-attachments/assets/c2c42fc5-4a61-4415-b666-4e94ab5645af)
+
